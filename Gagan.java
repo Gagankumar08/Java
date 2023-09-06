@@ -2,7 +2,7 @@ class Gagan
 {
   public static void main(String[]args)
  {
-   String name="gagan";
+   String name="gagankumar";
    int currentyear=2023;
    int birthyear=2002;
    int age=currentyear-birthyear;
