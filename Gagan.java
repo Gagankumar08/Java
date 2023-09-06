@@ -4,7 +4,7 @@ class Gagan
  {
    String name="gagankumar";
    int currentyear=2023;
-   int birthyear=2002;
+   int birthyear=2000;
    int age=currentyear-birthyear;
    System.out.println(age);
    int days=365*age;
