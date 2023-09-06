@@ -2,7 +2,7 @@ class Buckets
 {
 	public static void main(String[]args)
 	{
-	int n1=15,n2=43,n3;
+	int n1=20,n2=43,n3;
 	System.out.println("before_swap");
 	n3=n2;
 	n2=n1;
